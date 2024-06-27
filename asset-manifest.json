@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/mortgage-calculator/public/static/css/main.e6c13ad2.css",
-    "main.js": "/mortgage-calculator/public/static/js/main.4816ab7e.js",
-    "static/js/787.4c574a4c.chunk.js": "/mortgage-calculator/public/static/js/787.4c574a4c.chunk.js",
-    "index.html": "/mortgage-calculator/public/index.html",
-    "main.e6c13ad2.css.map": "/mortgage-calculator/public/static/css/main.e6c13ad2.css.map",
-    "main.4816ab7e.js.map": "/mortgage-calculator/public/static/js/main.4816ab7e.js.map",
-    "787.4c574a4c.chunk.js.map": "/mortgage-calculator/public/static/js/787.4c574a4c.chunk.js.map"
+    "main.css": "/mortgage-calculator/static/css/main.e6c13ad2.css",
+    "main.js": "/mortgage-calculator/static/js/main.76cb5ac2.js",
+    "static/js/787.4c574a4c.chunk.js": "/mortgage-calculator/static/js/787.4c574a4c.chunk.js",
+    "index.html": "/mortgage-calculator/index.html",
+    "main.e6c13ad2.css.map": "/mortgage-calculator/static/css/main.e6c13ad2.css.map",
+    "main.76cb5ac2.js.map": "/mortgage-calculator/static/js/main.76cb5ac2.js.map",
+    "787.4c574a4c.chunk.js.map": "/mortgage-calculator/static/js/787.4c574a4c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.4816ab7e.js"
+    "static/js/main.76cb5ac2.js"
   ]
 }
